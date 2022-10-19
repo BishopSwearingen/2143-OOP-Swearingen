@@ -11,11 +11,5 @@ This program practices overloading operators for a MyVector class.
 |   1   | main.cpp | Main driver of my list program . |
 |   2   | output.txt | output file                   |
 
-### Instructions
 
-- This program does not require any non standard libraries
-
-### Example Command
-
-- None for now.
 
