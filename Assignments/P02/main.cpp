@@ -12,7 +12,7 @@
  *  Usage:
  *        Use it like a linked list now. More like a vector next program
  *
- *  Files: main.cpp, outfile.txt
+ *  Files: main.cpp, output.txt
  *****************************************************************************/
 #include <fstream>
 #include <iostream>
