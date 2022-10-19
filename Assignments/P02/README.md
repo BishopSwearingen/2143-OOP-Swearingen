@@ -9,7 +9,7 @@ This program practices overloading operators for a MyVector class.
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | main.cpp | Main driver of my list program . |
-|   2   | outfile.txt | output file                   |
+|   2   | output.txt | output file                   |
 
 ### Instructions
 
