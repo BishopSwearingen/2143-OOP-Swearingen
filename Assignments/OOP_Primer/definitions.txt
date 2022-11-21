@@ -1,0 +1,18 @@
+Abstraction - the use of data hiding to leave user with only relevant details of the object
+Attributes/ Properties - the properties of an object in a class 
+Class - uses data and functions to form an object 
+Composition - a class that has a "has a" relationship with other classes in a program, a class that references objects of another class
+Constructor - initializes a new object from a class
+Encapsulation - the grouping of data and functions to keep their implementation private 
+Friends- gives one class access to another class' private data members 
+Inheritance - class can use member functions from another class 
+Instance Variable - variables that are defined within a class and are created with each new object of a class
+Member Variable - variable that is part of a class
+Method - behavior of an object from a class 
+Multiple Inheritance - a class that can be derived from more than one class 
+Object - a thing containing data and methods from class 
+Overloading - two methods sharing the same name but different parameters
+Polymorphism - the same entity behaving differently in different situations
+Public/ Private / Protected - different levels of access within a class
+Static - belongs to the class and does not need an instance to be used 
+Virtual - a function in a base class that is overridden in a derived class
